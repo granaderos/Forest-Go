@@ -1,0 +1,184 @@
+body{
+
+}
+
+@font-face {
+  font-family: Lovelo;
+  src:
+  local('Lovelo')
+  url("Lovelo.otf");
+  font-weight: bold;
+  format("opentype");
+}
+.logo {
+ margin-top:-.5em;
+}
+.threeIcons {
+  margin-top: -3em;
+}
+.icon-bar{
+
+  background-color: white;
+}
+
+a {
+  color: green;
+}
+
+a:hover {
+  text-decoration:none;
+  color: green;
+}
+
+.panel-success {
+    text-align: center;
+    margin: auto;
+}
+.text{
+    text-align: center;
+    margin-left: 7em;
+}
+.img-center-icons > a > img {
+  float:center;
+  margin: 0px auto;
+}
+
+.panel-body {
+  width:100%;
+}
+.navbar-custom{
+    height: 5em;
+    background-color: #26A65B;
+}
+.navbar-custom-brand{
+    margin: auto;
+    color: #fff;
+    font-size: 2em;
+    text-decoration: none;
+}
+.navbar-custom-brand:hover{
+    text-decoration: none;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    color: #fff;
+}
+.login{
+    margin-left: 2em;
+    margin-top: 1em;
+    background-color: #3fc380;
+}
+.login-input{
+    padding: 2px;
+    padding-left: 1em;
+    padding-top: 1em;
+}
+.input{
+    height: 2.5em;
+}
+input[text="type"]{
+  border-radius: 0px;
+  padding:1em;
+}
+
+
+
+.input-group-addon {
+  border-radius: 0px;
+}
+.btn-login{
+    background-color: transparent;
+    border: 2px solid #3fc380;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff;
+    width: 6em;
+    height: 3em;
+
+}
+.btn-login:hover{
+    background-color: #00b16a;
+    border: 2px solid #fff;
+    color: #fff;
+}
+.index{
+    padding-top: 90px;
+    width:85%;
+    margin:0px auto;
+}
+.indexx{
+    padding-top: 90px;
+}
+
+.howItWorks {
+  font-size: 1.4em;
+}
+.btn-register{
+    background-color: #26A65B;
+    border: 1px solid #3fc380;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 0.7em;
+    margin-left: 0.4em;
+    width: 8em;
+    height: 3.5em;
+}
+.btn-register:hover{
+    background-color: transparent;
+    border: 2px solid #3fc380;
+    color: #000;
+}
+.color{
+    background-color: red;
+}
+
+.img-center{
+    margin: 0px auto;
+}
+.img-rank{
+    margin-top: -1em;
+    width: 100px;
+    height: 100px;
+}
+
+.img-about {
+  width:60%;
+}
+
+.about:hover {
+  background-color: #26A65B;
+}
+
+.panel-title {
+  padding: 2em;
+}
+
+.panel {
+  border-radius:0px;
+}
+
+
+a.back-to-top {
+    display: none;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    position: fixed;
+    z-index: 999;
+    right: 20px;
+    bottom: 20px;
+    background: #27AE61 url("../images/up-arrow.png") no-repeat center 43%;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+}
+a:hover.back-to-top {
+    background-color: #000;
+}
+@media (max-width: 1200px){
+    .text{
+        text-align: center;
+        margin-left: 0;
+    }
+}

@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a4841a7-2c56-4115-a5e3-a32a835cfc2f" name="Default" comment="" />
+    <ignored path="forestGo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="forestGo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="newsfeed.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/newsfeed.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="303" column="0" selection-start="13692" selection-end="15351" vertical-scroll-proportion="0.94071144" vertical-offset="4069" max-vertical-offset="4785">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functionality.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/functionality.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="100" column="16" selection-start="3222" selection-end="3227" vertical-scroll-proportion="0.0" vertical-offset="1500" max-vertical-offset="5820">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displayAllDataForAdmin.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/objects/displayAllDataForAdmin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="14" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="12" selection-start="2102" selection-end="2194" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="3630">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verifyData.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/objects/verifyData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="14" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="285">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Functions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/controller/Functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="357" column="50" selection-start="15291" selection-end="17455" vertical-scroll-proportion="3.125" vertical-offset="5355" max-vertical-offset="7785">
+              <folding>
+                <marker date="1472337785930" expanded="true" signature="330:383" placeholder="INSERT INTO ..." />
+                <marker date="1472337785930" expanded="true" signature="567:611" placeholder="INSERT INTO ..." />
+                <marker date="1472337785930" expanded="true" signature="824:859" placeholder="SELECT * FRO..users..." />
+                <marker date="1472337785930" expanded="true" signature="977:1039" placeholder="SELECT * FRO..users..." />
+                <marker date="1472337785930" expanded="true" signature="1443:1505" placeholder="SELECT * FRO..users..." />
+                <marker date="1472337785930" expanded="true" signature="1991:2042" placeholder="INSERT INTO ..." />
+                <marker date="1472337785930" expanded="true" signature="2369:2409" placeholder="SELECT * FRO..forests..." />
+                <marker date="1472337785930" expanded="true" signature="2560:2612" placeholder="SELECT * fro..data..." />
+                <marker date="1472337785930" expanded="true" signature="3843:3886" placeholder="INSERT INTO ..." />
+                <marker date="1472337785930" expanded="true" signature="4134:4177" placeholder="SELECT count..likes..." />
+                <marker date="1472337785930" expanded="true" signature="4288:4334" placeholder="SELECT count..dislikes..." />
+                <marker date="1472337785930" expanded="true" signature="4513:4610" placeholder="SELECT f.coi..flupCoins..." />
+                <marker date="1472337785930" expanded="true" signature="6991:7049" placeholder="SELECT f.*, ..forests..." />
+                <marker date="1472337785930" expanded="true" signature="7135:7403" placeholder="..." />
+                <marker date="1472337785930" expanded="true" signature="7168:7368" placeholder="..." />
+                <marker date="1472337785930" expanded="true" signature="8308:8331" placeholder="SELECT * FRO..forests..." />
+                <marker date="1472337785930" expanded="true" signature="8369:8637" placeholder="..." />
+                <marker date="1472337785930" expanded="true" signature="8402:8602" placeholder="..." />
+                <marker date="1472337785930" expanded="true" signature="9326:9363" placeholder="INSERT INTO ..." />
+                <marker date="1472337785930" expanded="true" signature="9581:9621" placeholder="INSERT INTO ..." />
+                <marker date="1472337785930" expanded="true" signature="10061:10208" placeholder="SELECT u.fir..users..." />
+                <marker date="1472337785930" expanded="true" signature="10347:10390" placeholder="SELECT count..likes..." />
+                <marker date="1472337785930" expanded="true" signature="10640:10686" placeholder="SELECT count..dislikes..." />
+                <marker date="1472337785930" expanded="true" signature="11124:11170" placeholder="SELECT count..comments..." />
+                <marker date="1472337785930" expanded="true" signature="11480:11583" placeholder="..." />
+                <marker date="1472337785930" expanded="true" signature="11480:11844" placeholder="..." />
+                <marker date="1472337785930" expanded="true" signature="11543:11583" placeholder="..." />
+                <marker date="1472337785930" expanded="true" signature="11621:11844" placeholder="..." />
+                <marker date="1472337785930" expanded="true" signature="11724:11844" placeholder="..." />
+                <marker date="1472337785930" expanded="true" signature="18610:18710" placeholder="SELECT u.fir..users..." />
+                <marker date="1472337785930" expanded="true" signature="19170:19273" placeholder="SELECT u.fir..users..." />
+                <marker date="1472337785930" expanded="true" signature="20531:20577" placeholder="UPDATE repor..." />
+                <marker date="1472337785930" expanded="true" signature="20711:20754" placeholder="SELECT userI..reports..." />
+                <marker date="1472337785930" expanded="true" signature="21140:21173" placeholder="DELETE FROM ..." />
+                <marker date="1472337785930" expanded="true" signature="21406:21460" placeholder="INSERT INTO ..." />
+                <marker date="1472337785930" expanded="true" signature="21779:21902" placeholder="SELECT u.fir..users..." />
+                <marker date="1472337785930" expanded="true" signature="23348:23469" placeholder="SELECT u.fir..users..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="158" column="1" selection-start="2223" selection-end="2223" vertical-scroll-proportion="0.0" vertical-offset="2370" max-vertical-offset="2835">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="23" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0" vertical-offset="1215" max-vertical-offset="1350">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dislikeData.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/objects/dislikeData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="18" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="285">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displayCoins.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/objects/displayCoins.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="16" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/php/objects/displayComments.php" />
+        <option value="$PROJECT_DIR$/php/objects/addCoins.php" />
+        <option value="$PROJECT_DIR$/php/objects/displayForestData.php" />
+        <option value="$PROJECT_DIR$/functionality.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/php/controller/DatabaseConnector.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/php/objects/displayAllForests.php" />
+        <option value="$PROJECT_DIR$/php/objects/addData.php" />
+        <option value="$PROJECT_DIR$/php/objects/likeData.php" />
+        <option value="$PROJECT_DIR$/php/objects/addComment.php" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/php/objects/displayLikers.php" />
+        <option value="$PROJECT_DIR$/js/rootGoogleAPI.js" />
+        <option value="$PROJECT_DIR$/php/objects/searchForest.php" />
+        <option value="$PROJECT_DIR$/geo.html" />
+        <option value="$PROJECT_DIR$/js/googleAPI.js" />
+        <option value="$PROJECT_DIR$/php/objects/displayAllDataForAdmin.php" />
+        <option value="$PROJECT_DIR$/php/objects/verifyData.php" />
+        <option value="$PROJECT_DIR$/php/objects/deleteData.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/php/objects/displayCoins.php" />
+        <option value="$PROJECT_DIR$/php/objects/addReport.php" />
+        <option value="$PROJECT_DIR$/php/objects/displayProcessedData.php" />
+        <option value="$PROJECT_DIR$/php/objects/dislikeData.php" />
+        <option value="$PROJECT_DIR$/js/functionality.js" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/newsfeed.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/php/controller/Functions.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forestGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forestGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forestGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forestGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forestGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forestGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forestGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forestGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forestGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forestGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forestGo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistory" value="()" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../essensa_naturale" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\forestGo\php\objects" />
+      <recent name="D:\xampp\htdocs\forestGo\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\forestGo\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a4841a7-2c56-4115-a5e3-a32a835cfc2f" name="Default" comment="" />
+      <created>1472197314502</created>
+      <updated>1472197314502</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20015106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="30" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1037" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="1" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1479">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="64" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="3077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newsfeed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="240" column="52" selection-start="13597" selection-end="13649" vertical-scroll-proportion="0.0" vertical-offset="3708" max-vertical-offset="4233">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functionality.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="37" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="4233">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/googleAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="38" selection-start="908" selection-end="908" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayLikers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/addComment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="40" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/Functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="266" column="0" selection-start="11048" selection-end="11048" vertical-scroll-proportion="0.0" vertical-offset="4102" max-vertical-offset="5440">
+          <folding>
+            <marker date="1472337785930" expanded="true" signature="330:383" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="567:611" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="824:859" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="977:1039" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="1443:1505" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="1991:2042" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="2369:2409" placeholder="SELECT * FRO..forests..." />
+            <marker date="1472337785930" expanded="true" signature="2560:2612" placeholder="SELECT * fro..data..." />
+            <marker date="1472337785930" expanded="true" signature="3843:3886" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="4134:4177" placeholder="SELECT count..likes..." />
+            <marker date="1472337785930" expanded="true" signature="4288:4334" placeholder="SELECT count..dislikes..." />
+            <marker date="1472337785930" expanded="true" signature="4513:4610" placeholder="SELECT f.coi..flupCoins..." />
+            <marker date="1472337785930" expanded="true" signature="6991:7049" placeholder="SELECT f.*, ..forests..." />
+            <marker date="1472337785930" expanded="true" signature="7135:7403" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="7168:7368" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="8308:8331" placeholder="SELECT * FRO..forests..." />
+            <marker date="1472337785930" expanded="true" signature="8369:8637" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="8402:8602" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="9326:9363" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="9581:9621" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="10061:10208" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="10347:10390" placeholder="SELECT count..likes..." />
+            <marker date="1472337785930" expanded="true" signature="10640:10686" placeholder="SELECT count..dislikes..." />
+            <marker date="1472337785930" expanded="true" signature="11124:11170" placeholder="SELECT count..comments..." />
+            <marker date="1472337785930" expanded="true" signature="11480:11583" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11480:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11543:11583" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11621:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11724:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="18610:18710" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="19170:19273" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="20531:20577" placeholder="UPDATE repor..." />
+            <marker date="1472337785930" expanded="true" signature="20711:20754" placeholder="SELECT userI..reports..." />
+            <marker date="1472337785930" expanded="true" signature="21140:21173" placeholder="DELETE FROM ..." />
+            <marker date="1472337785930" expanded="true" signature="21406:21460" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="21779:21902" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="23348:23469" placeholder="SELECT u.fir..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="13" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0" vertical-offset="707" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayAllData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newsfeed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="212" column="53" selection-start="11930" selection-end="11930" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4233">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functionality.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="41" selection-start="2318" selection-end="2318" vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="4063">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/addData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="74" selection-start="850" selection-end="856" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/Functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="70" selection-start="8106" selection-end="8106" vertical-scroll-proportion="0.0" vertical-offset="3342" max-vertical-offset="5644">
+          <folding>
+            <marker date="1472337785930" expanded="true" signature="330:383" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="567:611" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="824:859" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="977:1039" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="1443:1505" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="1991:2042" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="2369:2409" placeholder="SELECT * FRO..forests..." />
+            <marker date="1472337785930" expanded="true" signature="2560:2612" placeholder="SELECT * fro..data..." />
+            <marker date="1472337785930" expanded="true" signature="3843:3886" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="4134:4177" placeholder="SELECT count..likes..." />
+            <marker date="1472337785930" expanded="true" signature="4288:4334" placeholder="SELECT count..dislikes..." />
+            <marker date="1472337785930" expanded="true" signature="4513:4610" placeholder="SELECT f.coi..flupCoins..." />
+            <marker date="1472337785930" expanded="true" signature="6991:7049" placeholder="SELECT f.*, ..forests..." />
+            <marker date="1472337785930" expanded="true" signature="7135:7403" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="7168:7368" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="8308:8331" placeholder="SELECT * FRO..forests..." />
+            <marker date="1472337785930" expanded="true" signature="8369:8637" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="8402:8602" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="9326:9363" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="9581:9621" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="10061:10208" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="10347:10390" placeholder="SELECT count..likes..." />
+            <marker date="1472337785930" expanded="true" signature="10640:10686" placeholder="SELECT count..dislikes..." />
+            <marker date="1472337785930" expanded="true" signature="11124:11170" placeholder="SELECT count..comments..." />
+            <marker date="1472337785930" expanded="true" signature="11480:11583" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11480:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11543:11583" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11621:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11724:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="18610:18710" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="19170:19273" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="20531:20577" placeholder="UPDATE repor..." />
+            <marker date="1472337785930" expanded="true" signature="20711:20754" placeholder="SELECT userI..reports..." />
+            <marker date="1472337785930" expanded="true" signature="21140:21173" placeholder="DELETE FROM ..." />
+            <marker date="1472337785930" expanded="true" signature="21406:21460" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="21779:21902" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="23348:23469" placeholder="SELECT u.fir..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayAllData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayAllForests.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="26" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newsfeed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4539">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayForestData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="27" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="22" selection-start="1487" selection-end="1487" vertical-scroll-proportion="0.0" vertical-offset="386" max-vertical-offset="2414">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="30" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functionality.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="57" selection-start="1229" selection-end="1229" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="4029">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/DatabaseConnector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="40" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/Functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4760">
+          <folding>
+            <marker date="1472337785930" expanded="true" signature="330:383" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="567:611" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="824:859" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="977:1039" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="1443:1505" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="1991:2042" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="2369:2409" placeholder="SELECT * FRO..forests..." />
+            <marker date="1472337785930" expanded="true" signature="2560:2612" placeholder="SELECT * fro..data..." />
+            <marker date="1472337785930" expanded="true" signature="3843:3886" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="4134:4177" placeholder="SELECT count..likes..." />
+            <marker date="1472337785930" expanded="true" signature="4288:4334" placeholder="SELECT count..dislikes..." />
+            <marker date="1472337785930" expanded="true" signature="4513:4610" placeholder="SELECT f.coi..flupCoins..." />
+            <marker date="1472337785930" expanded="true" signature="6991:7049" placeholder="SELECT f.*, ..forests..." />
+            <marker date="1472337785930" expanded="true" signature="7135:7403" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="7168:7368" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="8308:8331" placeholder="SELECT * FRO..forests..." />
+            <marker date="1472337785930" expanded="true" signature="8369:8637" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="8402:8602" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="9326:9363" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="9581:9621" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="10061:10208" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="10347:10390" placeholder="SELECT count..likes..." />
+            <marker date="1472337785930" expanded="true" signature="10640:10686" placeholder="SELECT count..dislikes..." />
+            <marker date="1472337785930" expanded="true" signature="11124:11170" placeholder="SELECT count..comments..." />
+            <marker date="1472337785930" expanded="true" signature="11480:11583" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11480:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11543:11583" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11621:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11724:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="18610:18710" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="19170:19273" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="20531:20577" placeholder="UPDATE repor..." />
+            <marker date="1472337785930" expanded="true" signature="20711:20754" placeholder="SELECT userI..reports..." />
+            <marker date="1472337785930" expanded="true" signature="21140:21173" placeholder="DELETE FROM ..." />
+            <marker date="1472337785930" expanded="true" signature="21406:21460" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="21779:21902" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="23348:23469" placeholder="SELECT u.fir..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/DatabaseConnector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="40" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayForestData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="27" selection-start="220" selection-end="220" vertical-scroll-proportion="0.23247863" vertical-offset="0" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/addData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="74" selection-start="850" selection-end="856" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="595" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/likeData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="24" selection-start="225" selection-end="225" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/addComment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="40" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6760" column="0" selection-start="153322" selection-end="153322" vertical-scroll-proportion="0.0" vertical-offset="114377" max-vertical-offset="115022" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayAllForests.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="26" selection-start="186" selection-end="186" vertical-scroll-proportion="0.17435898" vertical-offset="0" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayAllData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayLikers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/searchForest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="27" selection-start="218" selection-end="218" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/googleAPI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="23" selection-start="1853" selection-end="1853" vertical-scroll-proportion="-20.692308" vertical-offset="397" max-vertical-offset="1088" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/deleteData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="24" selection-start="160" selection-end="160" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="22" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayCoins.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="16" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="21" selection-start="1510" selection-end="1510" vertical-scroll-proportion="0.0" vertical-offset="688" max-vertical-offset="6902" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/verifyData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="14" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/addReport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="14" selection-start="937" selection-end="937" vertical-scroll-proportion="0.6683761" vertical-offset="0" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayProcessedData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="32" selection-start="192" selection-end="192" vertical-scroll-proportion="0.31965813" vertical-offset="0" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/dislikeData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="18" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="12" selection-start="2102" selection-end="2194" vertical-scroll-proportion="0.0" vertical-offset="2485" max-vertical-offset="4114">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/objects/displayAllDataForAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functionality.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="16" selection-start="3222" selection-end="3227" vertical-scroll-proportion="0.0" vertical-offset="1729" max-vertical-offset="6596">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="97" selection-start="1100" selection-end="1100" vertical-scroll-proportion="-5.8846154" vertical-offset="255" max-vertical-offset="1496" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="158" column="1" selection-start="2223" selection-end="2223" vertical-scroll-proportion="0.0" vertical-offset="2634" max-vertical-offset="3213">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="23" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0" vertical-offset="906" max-vertical-offset="1530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controller/Functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="357" column="50" selection-start="15291" selection-end="17455" vertical-scroll-proportion="3.125" vertical-offset="5355" max-vertical-offset="7785">
+          <folding>
+            <marker date="1472337785930" expanded="true" signature="330:383" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="567:611" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="824:859" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="977:1039" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="1443:1505" placeholder="SELECT * FRO..users..." />
+            <marker date="1472337785930" expanded="true" signature="1991:2042" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="2369:2409" placeholder="SELECT * FRO..forests..." />
+            <marker date="1472337785930" expanded="true" signature="2560:2612" placeholder="SELECT * fro..data..." />
+            <marker date="1472337785930" expanded="true" signature="3843:3886" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="4134:4177" placeholder="SELECT count..likes..." />
+            <marker date="1472337785930" expanded="true" signature="4288:4334" placeholder="SELECT count..dislikes..." />
+            <marker date="1472337785930" expanded="true" signature="4513:4610" placeholder="SELECT f.coi..flupCoins..." />
+            <marker date="1472337785930" expanded="true" signature="6991:7049" placeholder="SELECT f.*, ..forests..." />
+            <marker date="1472337785930" expanded="true" signature="7135:7403" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="7168:7368" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="8308:8331" placeholder="SELECT * FRO..forests..." />
+            <marker date="1472337785930" expanded="true" signature="8369:8637" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="8402:8602" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="9326:9363" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="9581:9621" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="10061:10208" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="10347:10390" placeholder="SELECT count..likes..." />
+            <marker date="1472337785930" expanded="true" signature="10640:10686" placeholder="SELECT count..dislikes..." />
+            <marker date="1472337785930" expanded="true" signature="11124:11170" placeholder="SELECT count..comments..." />
+            <marker date="1472337785930" expanded="true" signature="11480:11583" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11480:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11543:11583" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11621:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="11724:11844" placeholder="..." />
+            <marker date="1472337785930" expanded="true" signature="18610:18710" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="19170:19273" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="20531:20577" placeholder="UPDATE repor..." />
+            <marker date="1472337785930" expanded="true" signature="20711:20754" placeholder="SELECT userI..reports..." />
+            <marker date="1472337785930" expanded="true" signature="21140:21173" placeholder="DELETE FROM ..." />
+            <marker date="1472337785930" expanded="true" signature="21406:21460" placeholder="INSERT INTO ..." />
+            <marker date="1472337785930" expanded="true" signature="21779:21902" placeholder="SELECT u.fir..users..." />
+            <marker date="1472337785930" expanded="true" signature="23348:23469" placeholder="SELECT u.fir..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newsfeed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="303" column="0" selection-start="13692" selection-end="15351" vertical-scroll-proportion="0.94071144" vertical-offset="4069" max-vertical-offset="4785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
